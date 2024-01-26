@@ -3,6 +3,8 @@
 Student management system
 
 
+user this link http://127.0.0.1:8000/students
+
 -> Students List page
 Here we will list all the students with personal information and reporting teacher name. Also you can edit the studentes details. also validation added for all the fields
 
